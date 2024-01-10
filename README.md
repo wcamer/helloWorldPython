@@ -3,7 +3,7 @@
 This is a simple program that says "Hello World!"  
 The purpose of this program was to learn about and use Python and the Visual Studio Code IDE.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=rdaUAOAeTgs)
 
 # Development Environment
 
